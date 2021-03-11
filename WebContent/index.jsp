@@ -15,6 +15,7 @@
 			<li>2. REVERSE commit : 되돌아간 지점을 새로 커밋하는 </li>
 		</ul>
 		<p>지금 상황에서는 신규개발 브랜치가 이 파일을 가급적 건들면 안된다</p>
+		<a href="newIndex.jsp">브랜치 관련 링크</a>
 	</body>
 	<script>
 	</script>
