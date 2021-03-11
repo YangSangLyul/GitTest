@@ -14,6 +14,7 @@
 			<li>1. 브랜치 초기화 : 특정 위치로 되돌림(hard: 폐기, Mixed: unstaging, soft:staging)</li>
 			<li>2. REVERSE commit : 되돌아간 지점을 새로 커밋하는 </li>
 		</ul>
+		<p>지금 상황에서는 신규개발 브랜치가 이 파일을 가급적 건들면 안된다</p>
 	</body>
 	<script>
 	</script>
