@@ -12,7 +12,7 @@
 		<p>패기의 단축키 ctrl+shift+r) => 커미하기 전(unstaging) 에서 변경내용 취소</p>
 		<ul>
 			<li>1. 브랜치 초기화 : 특정 위치로 되돌림(hard: 폐기, Mixed: unstaging, soft:staging)</li>
-			<li>2. reverse commit</li>
+			<li>2. REVERSE commit</li>
 		</ul>
 	</body>
 	<script>
